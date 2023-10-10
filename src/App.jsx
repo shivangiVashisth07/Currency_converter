@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div
-      className=" p-8  flex flex-col  items-center w-100% h-screen bg-no-repeat bg-cover bg-center"
+      className=" p-8  flex flex-col  items-center justify-between w-100% h-screen bg-no-repeat bg-cover bg-center"
       style={{ backgroundImage: `url(${backgroundImg})` }}
     >
       <div className="p-4">
